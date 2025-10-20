@@ -17,4 +17,4 @@ This project explores sales data from a coffee shop to identify business insight
 - **Python** — Pandas, NumPy
 - **Visualization** — Matplotlib, Seaborn, Plotly
 - **Notebooks** — Jupyter / Colab
-- **Dashboard (optional)** — Power BI / Tableau
+- **Dashboard (optional)** — Dash
